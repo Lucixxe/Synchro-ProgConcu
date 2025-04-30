@@ -1,0 +1,25 @@
+Réalisation de démonstrateurs de différentes solutions de synchronisation (solutions algorithmiques, purement logicielles ou avec l'aide de matériel) . 
+
+﻿L'objectif de ce projet est de produire des démonstrateurs de différentes solutions de synchronisation (solutions algorithmiques, purement logicielles ou avec l'aide de matériel) . Les étudiants devraient retracer les débuts de la programmation concurrente et d'étudier l'histoire et l'évolution des solutions de synchronisation. Le travail peut être orienté  de différentes manières : vers une visualisation des solutions de synchronisation ou vers une évaluation de performances entre différentes solutions.
+
+
+Nature du travail:
+Réalisation logicielle (avec documentation associée)
+
+Résumé :
+Etude bibliographique et compréhension de algorithmes se synchronisation logicielles (Peterson pour 2 processus, Lamport pour N processus), introduction des instructions atoiques, sections critiques, structures de synchronisation et notions de cohérence mémoire.
+
+
+
+Taille de l'équipe d'étudiants: 1 à 4
+Enseignant responsable : Vania Marangozova
+vania.marangozova@imag.fr
+
+Compétences souhaitées (au sein de l’équipe) :
+Il serait souhaitable que les étudiants aient les connaissances des systèmes d'exploitation. Suivant le démonstrateur, des connaissances en algorithmique en langage de programmation seraient utiles.
+
+Intérêt pour les étudiants (compétences acquises, visibilité etc) :
+Ce projet permettra aux étudiants de evenir encore meilleurs en programmation concurrente et de comprendre les notions de base qui mènent vers des algorithmes qui font évoluer notre quotidien comme la Blockchain.
+
+Modalités de suivi :
+Points réguliers avec l'enseignant.

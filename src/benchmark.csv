@@ -1,0 +1,5 @@
+method,counter,time_s
+Naive (race condition),150800,0.0031182
+Mutex,400000,0.0134891
+Spinlock,400000,0.0279864
+CAS (lock-free),400000,0.0365999
